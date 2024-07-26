@@ -1,0 +1,5 @@
+step 1: finish 100 problems of project euler
+step 2: do 100 leetcodes
+step 3: continue with 100 problems of project euler
+step 4: finish rosetta code
+step 5: complete project euler
