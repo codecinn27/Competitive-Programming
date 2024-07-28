@@ -1,4 +1,4 @@
-
+//https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-2-even-fibonacci-numbers
 //my answer
 function fiboValue(n) {
     if(n<2){return false}
@@ -38,7 +38,7 @@ function fiboEvenSum(n){
 console.log(fiboValue(10));
 console.log(fiboEvenSum(34));
 
-// my answer
+// my previous answer 
 // function fiboEvenSum(n) {
 //     let first = 1;
 //     let sum = 2;

@@ -1,3 +1,4 @@
+//https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-1-multiples-of-3-or-5
 function multiplesOf3Or5(number) {
 
     let total = 0;
