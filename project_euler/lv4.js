@@ -1,0 +1,2 @@
+//https://www.geeksforgeeks.org/largest-palindrome-which-is-product-of-two-n-digit-numbers-set-2/
+//https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-4-largest-palindrome-product

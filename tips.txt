@@ -1,0 +1,4 @@
+Tips / Cheatsheat
+
+
+1) to get all the factor you only need to loop the square root of the number, that will be you last loop value
