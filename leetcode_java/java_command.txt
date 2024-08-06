@@ -1,0 +1,20 @@
+Basics of java command:
+
+1) for loop
+- for(int i = 0 ; i<10 ; i++)
+
+2) comment
+- //
+- /** */
+
+3) new array
+- int []arr = new int[2];
+
+- array length
+  -> arr.length
+
+4) print
+- System.out.println()
+
+5) fizz = buzz = 0;
+6) int i = 0, fizz =1, buzz = 1;
