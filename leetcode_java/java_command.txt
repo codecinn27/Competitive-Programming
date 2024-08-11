@@ -18,3 +18,10 @@ Basics of java command:
 
 5) fizz = buzz = 0;
 6) int i = 0, fizz =1, buzz = 1;
+7) new list
+List ans = new ArrayList<>();
+8) add array
+arr.add()
+9) integer to string
+Integer.toString(i);
+10)

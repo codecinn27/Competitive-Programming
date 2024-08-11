@@ -64,3 +64,6 @@ public class lv2 {
     }
 
 }
+
+//Next task 
+//1) learn hash map
