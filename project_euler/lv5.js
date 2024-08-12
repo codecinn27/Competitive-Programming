@@ -22,6 +22,8 @@ function gcd(a, b) {
   
   console.log(smallestMult(5)); // Output should be 60
   console.log(smallestMult(10)); // Output should be 2520
+  console.log(smallestMult(13)); // return 360360.
+  
 
 
 
