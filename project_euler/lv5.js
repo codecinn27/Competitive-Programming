@@ -1,4 +1,6 @@
 //https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-5-smallest-multiple
+// Euclidean algorithm.
+// GCD (Greatest Common Divisor)
 function gcd(a, b) {
     while (b !== 0) {
       let temp = b;
@@ -8,6 +10,7 @@ function gcd(a, b) {
     return a;
   }
   
+  //LCM (Least Common Multiple) 
   function lcm(a, b) {
     return (a * b) / gcd(a, b);
   }
