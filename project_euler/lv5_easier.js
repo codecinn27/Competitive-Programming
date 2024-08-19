@@ -1,4 +1,4 @@
-
+//refs: https://www.youtube.com/watch?v=2QyJ8STyo6I
 function is_evenly_divisible(n,value){
     for(let i = 2; i<n ; i++){
         if(value%i != 0){
@@ -19,5 +19,7 @@ function smallestMult(n){
         smallest +=n;
     }
 }
+
+
 
 console.log(smallestMult(20));
