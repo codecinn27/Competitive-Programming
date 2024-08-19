@@ -8,7 +8,7 @@ function divisibleByAll(n,value){
   }
   
   function smallestMult(n) {
-    value = n;
+    let value = n;
     while(true){
         if(divisibleByAll(n,value)){
             return value;
