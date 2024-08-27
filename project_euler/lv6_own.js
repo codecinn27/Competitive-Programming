@@ -1,4 +1,4 @@
-
+//https://www.freecodecamp.org/learn/project-euler/project-euler-problems-1-to-100/problem-6-sum-square-difference
 function sumOfSquare(n){
     let temp = 0;
     let list = [];
