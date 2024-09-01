@@ -30,9 +30,9 @@ function nthPrime(n) {
     return temp;
     
 }
-  console.log(nthPrime(1000));
+
+console.log(nthPrime(1000));
   
-  nthPrime(10001);
 
   //better version
 // function isPrime(z) {
